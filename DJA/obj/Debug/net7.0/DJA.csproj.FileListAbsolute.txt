@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/DJA/bin/Debug/net7.0/DJA
+/Users/omeirali/Desktop/Projects For Recordings/DJA/bin/Debug/net7.0/DJA.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/DJA/bin/Debug/net7.0/DJA.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/DJA/bin/Debug/net7.0/DJA.dll
+/Users/omeirali/Desktop/Projects For Recordings/DJA/bin/Debug/net7.0/DJA.pdb
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/DJA.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/DJA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/DJA.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/DJA.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/DJA.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/DJA.dll
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/refint/DJA.dll
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/DJA.pdb
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/DJA.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/DJA/obj/Debug/net7.0/ref/DJA.dll

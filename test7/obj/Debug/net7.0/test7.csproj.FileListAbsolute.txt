@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/test7/bin/Debug/net7.0/test7
+/Users/omeirali/Desktop/Projects For Recordings/test7/bin/Debug/net7.0/test7.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/test7/bin/Debug/net7.0/test7.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/test7/bin/Debug/net7.0/test7.dll
+/Users/omeirali/Desktop/Projects For Recordings/test7/bin/Debug/net7.0/test7.pdb
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/test7.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/test7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/test7.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/test7.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/test7.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/test7.dll
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/refint/test7.dll
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/test7.pdb
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/test7.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/test7/obj/Debug/net7.0/ref/test7.dll

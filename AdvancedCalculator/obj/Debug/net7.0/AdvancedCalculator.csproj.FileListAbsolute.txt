@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/bin/Debug/net7.0/AdvancedCalculator
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/bin/Debug/net7.0/AdvancedCalculator.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/bin/Debug/net7.0/AdvancedCalculator.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/bin/Debug/net7.0/AdvancedCalculator.dll
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/bin/Debug/net7.0/AdvancedCalculator.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/AdvancedCalculator.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/AdvancedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/AdvancedCalculator.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/AdvancedCalculator.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/AdvancedCalculator.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/AdvancedCalculator.dll
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/refint/AdvancedCalculator.dll
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/AdvancedCalculator.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/AdvancedCalculator.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/AdvancedCalculator/obj/Debug/net7.0/ref/AdvancedCalculator.dll

@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/bin/Debug/net7.0/AsyncReturnTypes
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/bin/Debug/net7.0/AsyncReturnTypes.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/bin/Debug/net7.0/AsyncReturnTypes.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/bin/Debug/net7.0/AsyncReturnTypes.dll
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/bin/Debug/net7.0/AsyncReturnTypes.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/AsyncReturnTypes.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/AsyncReturnTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/AsyncReturnTypes.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/AsyncReturnTypes.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/AsyncReturnTypes.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/AsyncReturnTypes.dll
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/refint/AsyncReturnTypes.dll
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/AsyncReturnTypes.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/AsyncReturnTypes.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/AsyncReturnTypes/obj/Debug/net7.0/ref/AsyncReturnTypes.dll

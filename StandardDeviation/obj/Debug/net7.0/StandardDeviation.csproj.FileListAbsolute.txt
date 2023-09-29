@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/bin/Debug/net7.0/StandardDeviation
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/bin/Debug/net7.0/StandardDeviation.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/bin/Debug/net7.0/StandardDeviation.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/bin/Debug/net7.0/StandardDeviation.dll
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/bin/Debug/net7.0/StandardDeviation.pdb
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/StandardDeviation.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/StandardDeviation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/StandardDeviation.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/StandardDeviation.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/StandardDeviation.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/StandardDeviation.dll
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/refint/StandardDeviation.dll
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/StandardDeviation.pdb
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/StandardDeviation.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/StandardDeviation/obj/Debug/net7.0/ref/StandardDeviation.dll

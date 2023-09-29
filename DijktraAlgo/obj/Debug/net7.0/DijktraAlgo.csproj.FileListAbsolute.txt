@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/bin/Debug/net7.0/DijktraAlgo
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/bin/Debug/net7.0/DijktraAlgo.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/bin/Debug/net7.0/DijktraAlgo.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/bin/Debug/net7.0/DijktraAlgo.dll
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/bin/Debug/net7.0/DijktraAlgo.pdb
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/DijktraAlgo.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/DijktraAlgo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/DijktraAlgo.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/DijktraAlgo.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/DijktraAlgo.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/DijktraAlgo.dll
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/refint/DijktraAlgo.dll
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/DijktraAlgo.pdb
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/DijktraAlgo.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/DijktraAlgo/obj/Debug/net7.0/ref/DijktraAlgo.dll

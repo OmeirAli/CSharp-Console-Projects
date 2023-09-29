@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/bin/Debug/net7.0/ArrayNumberCheck
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/bin/Debug/net7.0/ArrayNumberCheck.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/bin/Debug/net7.0/ArrayNumberCheck.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/bin/Debug/net7.0/ArrayNumberCheck.dll
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/bin/Debug/net7.0/ArrayNumberCheck.pdb
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/ArrayNumberCheck.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/ArrayNumberCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/ArrayNumberCheck.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/ArrayNumberCheck.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/ArrayNumberCheck.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/ArrayNumberCheck.dll
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/refint/ArrayNumberCheck.dll
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/ArrayNumberCheck.pdb
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/ArrayNumberCheck.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/ArrayNumberCheck/obj/Debug/net7.0/ref/ArrayNumberCheck.dll

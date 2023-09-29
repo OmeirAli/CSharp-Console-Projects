@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/VC/bin/Debug/net7.0/VC
+/Users/omeirali/Desktop/Projects For Recordings/VC/bin/Debug/net7.0/VC.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/VC/bin/Debug/net7.0/VC.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/VC/bin/Debug/net7.0/VC.dll
+/Users/omeirali/Desktop/Projects For Recordings/VC/bin/Debug/net7.0/VC.pdb
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/VC.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/VC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/VC.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/VC.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/VC.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/VC.dll
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/refint/VC.dll
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/VC.pdb
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/VC.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/VC/obj/Debug/net7.0/ref/VC.dll

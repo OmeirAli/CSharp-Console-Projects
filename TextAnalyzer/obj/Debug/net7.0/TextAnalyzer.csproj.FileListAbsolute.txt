@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/bin/Debug/net7.0/TextAnalyzer
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/bin/Debug/net7.0/TextAnalyzer.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/bin/Debug/net7.0/TextAnalyzer.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/bin/Debug/net7.0/TextAnalyzer.dll
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/bin/Debug/net7.0/TextAnalyzer.pdb
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/TextAnalyzer.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/TextAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/TextAnalyzer.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/TextAnalyzer.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/TextAnalyzer.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/TextAnalyzer.dll
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/refint/TextAnalyzer.dll
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/TextAnalyzer.pdb
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/TextAnalyzer.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/TextAnalyzer/obj/Debug/net7.0/ref/TextAnalyzer.dll

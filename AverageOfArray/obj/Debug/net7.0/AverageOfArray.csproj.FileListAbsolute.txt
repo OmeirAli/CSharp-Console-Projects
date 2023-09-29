@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/bin/Debug/net7.0/AverageOfArray
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/bin/Debug/net7.0/AverageOfArray.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/bin/Debug/net7.0/AverageOfArray.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/bin/Debug/net7.0/AverageOfArray.dll
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/bin/Debug/net7.0/AverageOfArray.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/AverageOfArray.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/AverageOfArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/AverageOfArray.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/AverageOfArray.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/AverageOfArray.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/AverageOfArray.dll
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/refint/AverageOfArray.dll
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/AverageOfArray.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/AverageOfArray.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/AverageOfArray/obj/Debug/net7.0/ref/AverageOfArray.dll

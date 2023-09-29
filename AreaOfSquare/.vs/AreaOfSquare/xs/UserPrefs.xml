@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5A9B73CA-E1BE-4693-B575-7C5D05828848}|Default">
+  <MonoDevelop.Ide.ItemProperties.AreaOfSquare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AreaOfSquare/Program.cs">
+    <Files>
+      <File FileName="AreaOfSquare/Program.cs" Line="16" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AreaOfSquare" expanded="True">
+            <Node name="AreaOfSquare" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

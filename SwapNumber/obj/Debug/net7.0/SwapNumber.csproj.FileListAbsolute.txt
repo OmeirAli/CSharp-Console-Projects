@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/SwapNumber/bin/Debug/net7.0/SwapNumber
+/Users/omeirali/Desktop/SwapNumber/bin/Debug/net7.0/SwapNumber.deps.json
+/Users/omeirali/Desktop/SwapNumber/bin/Debug/net7.0/SwapNumber.runtimeconfig.json
+/Users/omeirali/Desktop/SwapNumber/bin/Debug/net7.0/SwapNumber.dll
+/Users/omeirali/Desktop/SwapNumber/bin/Debug/net7.0/SwapNumber.pdb
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/SwapNumber.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/SwapNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/SwapNumber.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/SwapNumber.AssemblyInfo.cs
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/SwapNumber.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/SwapNumber.dll
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/refint/SwapNumber.dll
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/SwapNumber.pdb
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/SwapNumber.genruntimeconfig.cache
+/Users/omeirali/Desktop/SwapNumber/obj/Debug/net7.0/ref/SwapNumber.dll

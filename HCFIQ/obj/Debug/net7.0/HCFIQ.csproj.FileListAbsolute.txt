@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/bin/Debug/net7.0/HCFIQ
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/bin/Debug/net7.0/HCFIQ.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/bin/Debug/net7.0/HCFIQ.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/bin/Debug/net7.0/HCFIQ.dll
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/bin/Debug/net7.0/HCFIQ.pdb
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/HCFIQ.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/HCFIQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/HCFIQ.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/HCFIQ.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/HCFIQ.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/HCFIQ.dll
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/refint/HCFIQ.dll
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/HCFIQ.pdb
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/HCFIQ.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/HCFIQ/obj/Debug/net7.0/ref/HCFIQ.dll

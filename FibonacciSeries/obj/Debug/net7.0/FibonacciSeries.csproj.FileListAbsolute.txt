@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/bin/Debug/net7.0/FibonacciSeries
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/bin/Debug/net7.0/FibonacciSeries.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/bin/Debug/net7.0/FibonacciSeries.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/bin/Debug/net7.0/FibonacciSeries.dll
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/bin/Debug/net7.0/FibonacciSeries.pdb
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/FibonacciSeries.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/FibonacciSeries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/FibonacciSeries.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/FibonacciSeries.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/FibonacciSeries.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/FibonacciSeries.dll
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/refint/FibonacciSeries.dll
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/FibonacciSeries.pdb
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/FibonacciSeries.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/FibonacciSeries/obj/Debug/net7.0/ref/FibonacciSeries.dll

@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/bin/Debug/net7.0/AsyncAndWait
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/bin/Debug/net7.0/AsyncAndWait.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/bin/Debug/net7.0/AsyncAndWait.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/bin/Debug/net7.0/AsyncAndWait.dll
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/bin/Debug/net7.0/AsyncAndWait.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/AsyncAndWait.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/AsyncAndWait.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/AsyncAndWait.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/AsyncAndWait.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/AsyncAndWait.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/AsyncAndWait.dll
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/refint/AsyncAndWait.dll
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/AsyncAndWait.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/AsyncAndWait.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/AsyncAndWait/obj/Debug/net7.0/ref/AsyncAndWait.dll

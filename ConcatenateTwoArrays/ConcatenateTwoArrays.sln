@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenateTwoArrays", "ConcatenateTwoArrays.csproj", "{DB103045-A107-4CF6-A3D2-2DFA09B28FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB103045-A107-4CF6-A3D2-2DFA09B28FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB103045-A107-4CF6-A3D2-2DFA09B28FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB103045-A107-4CF6-A3D2-2DFA09B28FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB103045-A107-4CF6-A3D2-2DFA09B28FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

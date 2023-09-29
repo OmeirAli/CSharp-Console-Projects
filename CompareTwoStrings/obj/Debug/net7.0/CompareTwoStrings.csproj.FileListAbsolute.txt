@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/CompareTwoStrings.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/CompareTwoStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/CompareTwoStrings.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/CompareTwoStrings.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/CompareTwoStrings.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/bin/Debug/net7.0/CompareTwoStrings
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/bin/Debug/net7.0/CompareTwoStrings.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/bin/Debug/net7.0/CompareTwoStrings.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/bin/Debug/net7.0/CompareTwoStrings.dll
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/bin/Debug/net7.0/CompareTwoStrings.pdb
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/CompareTwoStrings.dll
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/refint/CompareTwoStrings.dll
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/CompareTwoStrings.pdb
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/CompareTwoStrings.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/CompareTwoStrings/obj/Debug/net7.0/ref/CompareTwoStrings.dll

@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/bin/Debug/net7.0/NegativeOrPositive
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/bin/Debug/net7.0/NegativeOrPositive.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/bin/Debug/net7.0/NegativeOrPositive.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/bin/Debug/net7.0/NegativeOrPositive.dll
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/bin/Debug/net7.0/NegativeOrPositive.pdb
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/NegativeOrPositive.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/NegativeOrPositive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/NegativeOrPositive.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/NegativeOrPositive.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/NegativeOrPositive.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/NegativeOrPositive.dll
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/refint/NegativeOrPositive.dll
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/NegativeOrPositive.pdb
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/NegativeOrPositive.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/NegativeOrPositive/obj/Debug/net7.0/ref/NegativeOrPositive.dll

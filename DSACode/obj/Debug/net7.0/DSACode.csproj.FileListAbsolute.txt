@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/bin/Debug/net7.0/DSACode
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/bin/Debug/net7.0/DSACode.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/bin/Debug/net7.0/DSACode.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/bin/Debug/net7.0/DSACode.dll
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/bin/Debug/net7.0/DSACode.pdb
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/DSACode.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/DSACode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/DSACode.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/DSACode.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/DSACode.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/DSACode.dll
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/refint/DSACode.dll
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/DSACode.pdb
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/DSACode.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/DSACode/obj/Debug/net7.0/ref/DSACode.dll

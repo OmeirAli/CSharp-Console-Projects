@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/AreaOfSquare.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/AreaOfSquare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/AreaOfSquare.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/AreaOfSquare.AssemblyInfo.cs
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/AreaOfSquare.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/bin/Debug/net7.0/AreaOfSquare
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/bin/Debug/net7.0/AreaOfSquare.deps.json
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/bin/Debug/net7.0/AreaOfSquare.runtimeconfig.json
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/bin/Debug/net7.0/AreaOfSquare.dll
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/bin/Debug/net7.0/AreaOfSquare.pdb
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/AreaOfSquare.dll
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/refint/AreaOfSquare.dll
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/AreaOfSquare.pdb
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/AreaOfSquare.genruntimeconfig.cache
+/Users/omeirali/Desktop/CSharpHandsOn/AreaOfSquare/AreaOfSquare/obj/Debug/net7.0/ref/AreaOfSquare.dll

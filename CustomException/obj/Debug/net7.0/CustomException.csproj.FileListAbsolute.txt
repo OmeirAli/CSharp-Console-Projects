@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/bin/Debug/net7.0/CustomException
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/bin/Debug/net7.0/CustomException.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/bin/Debug/net7.0/CustomException.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/bin/Debug/net7.0/CustomException.dll
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/bin/Debug/net7.0/CustomException.pdb
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/CustomException.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/CustomException.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/CustomException.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/CustomException.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/CustomException.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/CustomException.dll
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/refint/CustomException.dll
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/CustomException.pdb
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/CustomException.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/CustomException/obj/Debug/net7.0/ref/CustomException.dll

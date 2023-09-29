@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/TAP/bin/Debug/net7.0/TAP
+/Users/omeirali/Desktop/Projects For Recordings/TAP/bin/Debug/net7.0/TAP.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/TAP/bin/Debug/net7.0/TAP.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/TAP/bin/Debug/net7.0/TAP.dll
+/Users/omeirali/Desktop/Projects For Recordings/TAP/bin/Debug/net7.0/TAP.pdb
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/TAP.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/TAP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/TAP.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/TAP.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/TAP.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/TAP.dll
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/refint/TAP.dll
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/TAP.pdb
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/TAP.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/TAP/obj/Debug/net7.0/ref/TAP.dll

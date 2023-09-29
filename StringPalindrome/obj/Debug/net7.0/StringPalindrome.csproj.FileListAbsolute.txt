@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/bin/Debug/net7.0/StringPalindrome
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/bin/Debug/net7.0/StringPalindrome.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/bin/Debug/net7.0/StringPalindrome.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/bin/Debug/net7.0/StringPalindrome.dll
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/bin/Debug/net7.0/StringPalindrome.pdb
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/StringPalindrome.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/StringPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/StringPalindrome.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/StringPalindrome.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/StringPalindrome.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/StringPalindrome.dll
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/refint/StringPalindrome.dll
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/StringPalindrome.pdb
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/StringPalindrome.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/StringPalindrome/obj/Debug/net7.0/ref/StringPalindrome.dll

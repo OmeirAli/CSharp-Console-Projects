@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/bin/Debug/net7.0/CustomAttribute
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/bin/Debug/net7.0/CustomAttribute.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/bin/Debug/net7.0/CustomAttribute.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/bin/Debug/net7.0/CustomAttribute.dll
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/bin/Debug/net7.0/CustomAttribute.pdb
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/CustomAttribute.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/CustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/CustomAttribute.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/CustomAttribute.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/CustomAttribute.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/CustomAttribute.dll
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/refint/CustomAttribute.dll
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/CustomAttribute.pdb
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/CustomAttribute.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/CustomAttribute/obj/Debug/net7.0/ref/CustomAttribute.dll

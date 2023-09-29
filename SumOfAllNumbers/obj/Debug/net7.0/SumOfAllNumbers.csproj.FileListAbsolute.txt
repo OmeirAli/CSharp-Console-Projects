@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/bin/Debug/net7.0/SumOfAllNumbers
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/bin/Debug/net7.0/SumOfAllNumbers.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/bin/Debug/net7.0/SumOfAllNumbers.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/bin/Debug/net7.0/SumOfAllNumbers.dll
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/bin/Debug/net7.0/SumOfAllNumbers.pdb
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/SumOfAllNumbers.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/SumOfAllNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/SumOfAllNumbers.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/SumOfAllNumbers.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/SumOfAllNumbers.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/SumOfAllNumbers.dll
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/refint/SumOfAllNumbers.dll
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/SumOfAllNumbers.pdb
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/SumOfAllNumbers.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/SumOfAllNumbers/obj/Debug/net7.0/ref/SumOfAllNumbers.dll

@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/STMS/bin/Debug/net7.0/STMS
+/Users/omeirali/Desktop/Projects For Recordings/STMS/bin/Debug/net7.0/STMS.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/STMS/bin/Debug/net7.0/STMS.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/STMS/bin/Debug/net7.0/STMS.dll
+/Users/omeirali/Desktop/Projects For Recordings/STMS/bin/Debug/net7.0/STMS.pdb
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/STMS.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/STMS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/STMS.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/STMS.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/STMS.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/STMS.dll
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/refint/STMS.dll
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/STMS.pdb
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/STMS.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/STMS/obj/Debug/net7.0/ref/STMS.dll

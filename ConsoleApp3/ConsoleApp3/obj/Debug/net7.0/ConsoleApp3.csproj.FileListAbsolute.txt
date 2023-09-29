@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3.dll
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/bin/Debug/net7.0/ConsoleApp3.pdb
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.dll
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/refint/ConsoleApp3.dll
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.pdb
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/ConsoleApp3/ConsoleApp3/obj/Debug/net7.0/ref/ConsoleApp3.dll

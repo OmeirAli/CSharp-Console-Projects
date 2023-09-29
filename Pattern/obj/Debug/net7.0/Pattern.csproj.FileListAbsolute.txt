@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/bin/Debug/net7.0/Pattern
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/bin/Debug/net7.0/Pattern.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/bin/Debug/net7.0/Pattern.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/bin/Debug/net7.0/Pattern.dll
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/bin/Debug/net7.0/Pattern.pdb
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/Pattern.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/Pattern.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/Pattern.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/Pattern.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/Pattern.dll
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/refint/Pattern.dll
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/Pattern.pdb
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/Pattern.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/Pattern/obj/Debug/net7.0/ref/Pattern.dll

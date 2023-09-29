@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/bin/Debug/net7.0/ArmStrongNumber
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/bin/Debug/net7.0/ArmStrongNumber.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/bin/Debug/net7.0/ArmStrongNumber.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/bin/Debug/net7.0/ArmStrongNumber.dll
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/bin/Debug/net7.0/ArmStrongNumber.pdb
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/ArmStrongNumber.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/ArmStrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/ArmStrongNumber.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/ArmStrongNumber.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/ArmStrongNumber.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/ArmStrongNumber.dll
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/refint/ArmStrongNumber.dll
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/ArmStrongNumber.pdb
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/ArmStrongNumber.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/ArmStrongNumber/obj/Debug/net7.0/ref/ArmStrongNumber.dll

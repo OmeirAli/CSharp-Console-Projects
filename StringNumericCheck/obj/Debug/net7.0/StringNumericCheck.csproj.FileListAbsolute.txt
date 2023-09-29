@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/bin/Debug/net7.0/StringNumericCheck
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/bin/Debug/net7.0/StringNumericCheck.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/bin/Debug/net7.0/StringNumericCheck.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/bin/Debug/net7.0/StringNumericCheck.dll
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/bin/Debug/net7.0/StringNumericCheck.pdb
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/StringNumericCheck.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/StringNumericCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/StringNumericCheck.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/StringNumericCheck.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/StringNumericCheck.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/StringNumericCheck.dll
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/refint/StringNumericCheck.dll
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/StringNumericCheck.pdb
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/StringNumericCheck.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/StringNumericCheck/obj/Debug/net7.0/ref/StringNumericCheck.dll

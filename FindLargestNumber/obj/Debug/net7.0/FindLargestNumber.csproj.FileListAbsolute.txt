@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/bin/Debug/net7.0/FindLargestNumber
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/bin/Debug/net7.0/FindLargestNumber.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/bin/Debug/net7.0/FindLargestNumber.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/bin/Debug/net7.0/FindLargestNumber.dll
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/bin/Debug/net7.0/FindLargestNumber.pdb
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/FindLargestNumber.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/FindLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/FindLargestNumber.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/FindLargestNumber.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/FindLargestNumber.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/FindLargestNumber.dll
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/refint/FindLargestNumber.dll
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/FindLargestNumber.pdb
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/FindLargestNumber.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/FindLargestNumber/obj/Debug/net7.0/ref/FindLargestNumber.dll

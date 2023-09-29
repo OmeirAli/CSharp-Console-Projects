@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/bin/Debug/net7.0/LargestElementArray
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/bin/Debug/net7.0/LargestElementArray.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/bin/Debug/net7.0/LargestElementArray.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/bin/Debug/net7.0/LargestElementArray.dll
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/bin/Debug/net7.0/LargestElementArray.pdb
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/LargestElementArray.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/LargestElementArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/LargestElementArray.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/LargestElementArray.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/LargestElementArray.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/LargestElementArray.dll
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/refint/LargestElementArray.dll
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/LargestElementArray.pdb
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/LargestElementArray.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/LargestElementArray/obj/Debug/net7.0/ref/LargestElementArray.dll

@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/AttributesExample.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/AttributesExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/AttributesExample.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/AttributesExample.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/AttributesExample.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/bin/Debug/net7.0/AttributesExample
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/bin/Debug/net7.0/AttributesExample.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/bin/Debug/net7.0/AttributesExample.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/bin/Debug/net7.0/AttributesExample.dll
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/bin/Debug/net7.0/AttributesExample.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/AttributesExample.dll
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/refint/AttributesExample.dll
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/AttributesExample.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/AttributesExample.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/AttributesExample/AttributesExample/obj/Debug/net7.0/ref/AttributesExample.dll

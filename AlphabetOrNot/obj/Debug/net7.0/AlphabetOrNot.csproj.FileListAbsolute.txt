@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/bin/Debug/net7.0/AlphabetOrNot
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/bin/Debug/net7.0/AlphabetOrNot.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/bin/Debug/net7.0/AlphabetOrNot.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/bin/Debug/net7.0/AlphabetOrNot.dll
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/bin/Debug/net7.0/AlphabetOrNot.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/AlphabetOrNot.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/AlphabetOrNot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/AlphabetOrNot.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/AlphabetOrNot.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/AlphabetOrNot.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/AlphabetOrNot.dll
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/refint/AlphabetOrNot.dll
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/AlphabetOrNot.pdb
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/AlphabetOrNot.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/AlphabetOrNot/obj/Debug/net7.0/ref/AlphabetOrNot.dll

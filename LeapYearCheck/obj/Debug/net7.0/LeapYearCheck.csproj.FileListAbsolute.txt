@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/bin/Debug/net7.0/LeapYearCheck
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/bin/Debug/net7.0/LeapYearCheck.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/bin/Debug/net7.0/LeapYearCheck.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/bin/Debug/net7.0/LeapYearCheck.dll
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/bin/Debug/net7.0/LeapYearCheck.pdb
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/LeapYearCheck.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/LeapYearCheck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/LeapYearCheck.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/LeapYearCheck.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/LeapYearCheck.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/LeapYearCheck.dll
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/refint/LeapYearCheck.dll
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/LeapYearCheck.pdb
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/LeapYearCheck.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/LeapYearCheck/obj/Debug/net7.0/ref/LeapYearCheck.dll

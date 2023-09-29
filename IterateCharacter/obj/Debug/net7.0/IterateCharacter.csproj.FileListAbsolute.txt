@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/bin/Debug/net7.0/IterateCharacter
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/bin/Debug/net7.0/IterateCharacter.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/bin/Debug/net7.0/IterateCharacter.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/bin/Debug/net7.0/IterateCharacter.dll
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/bin/Debug/net7.0/IterateCharacter.pdb
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/IterateCharacter.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/IterateCharacter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/IterateCharacter.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/IterateCharacter.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/IterateCharacter.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/IterateCharacter.dll
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/refint/IterateCharacter.dll
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/IterateCharacter.pdb
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/IterateCharacter.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/IterateCharacter/obj/Debug/net7.0/ref/IterateCharacter.dll

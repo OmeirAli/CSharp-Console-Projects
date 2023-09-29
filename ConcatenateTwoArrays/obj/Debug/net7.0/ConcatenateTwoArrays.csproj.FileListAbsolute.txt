@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/bin/Debug/net7.0/ConcatenateTwoArrays
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/bin/Debug/net7.0/ConcatenateTwoArrays.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/bin/Debug/net7.0/ConcatenateTwoArrays.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/bin/Debug/net7.0/ConcatenateTwoArrays.dll
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/bin/Debug/net7.0/ConcatenateTwoArrays.pdb
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/ConcatenateTwoArrays.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/ConcatenateTwoArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/ConcatenateTwoArrays.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/ConcatenateTwoArrays.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/ConcatenateTwoArrays.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/ConcatenateTwoArrays.dll
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/refint/ConcatenateTwoArrays.dll
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/ConcatenateTwoArrays.pdb
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/ConcatenateTwoArrays.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/ConcatenateTwoArrays/obj/Debug/net7.0/ref/ConcatenateTwoArrays.dll

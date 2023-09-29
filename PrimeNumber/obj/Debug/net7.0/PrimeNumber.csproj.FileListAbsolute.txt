@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/bin/Debug/net7.0/PrimeNumber
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/bin/Debug/net7.0/PrimeNumber.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/bin/Debug/net7.0/PrimeNumber.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/bin/Debug/net7.0/PrimeNumber.dll
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/bin/Debug/net7.0/PrimeNumber.pdb
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/PrimeNumber.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/PrimeNumber.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/PrimeNumber.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/PrimeNumber.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/PrimeNumber.dll
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/refint/PrimeNumber.dll
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/PrimeNumber.pdb
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/PrimeNumber.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/PrimeNumber/obj/Debug/net7.0/ref/PrimeNumber.dll

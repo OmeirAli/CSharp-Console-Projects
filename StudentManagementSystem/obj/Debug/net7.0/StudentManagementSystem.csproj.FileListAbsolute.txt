@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/bin/Debug/net7.0/StudentManagementSystem
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/bin/Debug/net7.0/StudentManagementSystem.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/bin/Debug/net7.0/StudentManagementSystem.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/bin/Debug/net7.0/StudentManagementSystem.dll
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/bin/Debug/net7.0/StudentManagementSystem.pdb
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/StudentManagementSystem.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/StudentManagementSystem.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/StudentManagementSystem.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/StudentManagementSystem.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/StudentManagementSystem.dll
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/refint/StudentManagementSystem.dll
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/StudentManagementSystem.pdb
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/StudentManagementSystem.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/StudentManagementSystem/obj/Debug/net7.0/ref/StudentManagementSystem.dll

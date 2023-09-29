@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/bin/Debug/net7.0/IDFO
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/bin/Debug/net7.0/IDFO.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/bin/Debug/net7.0/IDFO.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/bin/Debug/net7.0/IDFO.dll
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/bin/Debug/net7.0/IDFO.pdb
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/IDFO.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/IDFO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/IDFO.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/IDFO.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/IDFO.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/IDFO.dll
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/refint/IDFO.dll
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/IDFO.pdb
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/IDFO.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/IDFO/obj/Debug/net7.0/ref/IDFO.dll

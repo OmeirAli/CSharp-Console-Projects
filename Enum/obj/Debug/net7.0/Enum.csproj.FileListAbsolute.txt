@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/Enum.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/Enum.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/Enum.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/Enum.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/Enum/bin/Debug/net7.0/Enum
+/Users/omeirali/Desktop/Projects For Recordings/Enum/bin/Debug/net7.0/Enum.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/Enum/bin/Debug/net7.0/Enum.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/Enum/bin/Debug/net7.0/Enum.dll
+/Users/omeirali/Desktop/Projects For Recordings/Enum/bin/Debug/net7.0/Enum.pdb
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/Enum.dll
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/refint/Enum.dll
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/Enum.pdb
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/Enum.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/Enum/obj/Debug/net7.0/ref/Enum.dll

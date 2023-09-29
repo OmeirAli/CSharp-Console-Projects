@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/Practice/bin/Debug/net7.0/Practice
+/Users/omeirali/Desktop/Projects For Recordings/Practice/bin/Debug/net7.0/Practice.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/Practice/bin/Debug/net7.0/Practice.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/Practice/bin/Debug/net7.0/Practice.dll
+/Users/omeirali/Desktop/Projects For Recordings/Practice/bin/Debug/net7.0/Practice.pdb
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/Practice.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/Practice.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/Practice.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/Practice.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/Practice.dll
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/refint/Practice.dll
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/Practice.pdb
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/Practice.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/Practice/obj/Debug/net7.0/ref/Practice.dll

@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/bin/Debug/net7.0/LoggingIn
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/bin/Debug/net7.0/LoggingIn.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/bin/Debug/net7.0/LoggingIn.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/bin/Debug/net7.0/LoggingIn.dll
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/bin/Debug/net7.0/LoggingIn.pdb
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/LoggingIn.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/LoggingIn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/LoggingIn.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/LoggingIn.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/LoggingIn.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/LoggingIn.dll
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/refint/LoggingIn.dll
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/LoggingIn.pdb
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/LoggingIn.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/LoggingIn/obj/Debug/net7.0/ref/LoggingIn.dll

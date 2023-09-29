@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/bin/Debug/net7.0/CapitalizeFirstCharacter
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/bin/Debug/net7.0/CapitalizeFirstCharacter.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/bin/Debug/net7.0/CapitalizeFirstCharacter.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/bin/Debug/net7.0/CapitalizeFirstCharacter.dll
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/bin/Debug/net7.0/CapitalizeFirstCharacter.pdb
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/CapitalizeFirstCharacter.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/CapitalizeFirstCharacter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/CapitalizeFirstCharacter.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/CapitalizeFirstCharacter.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/CapitalizeFirstCharacter.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/CapitalizeFirstCharacter.dll
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/refint/CapitalizeFirstCharacter.dll
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/CapitalizeFirstCharacter.pdb
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/CapitalizeFirstCharacter.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/CapitalizeFirstCharacter/obj/Debug/net7.0/ref/CapitalizeFirstCharacter.dll

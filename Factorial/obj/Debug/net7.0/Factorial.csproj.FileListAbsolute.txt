@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/bin/Debug/net7.0/Factorial
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/bin/Debug/net7.0/Factorial.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/bin/Debug/net7.0/Factorial.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/bin/Debug/net7.0/Factorial.dll
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/bin/Debug/net7.0/Factorial.pdb
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/Factorial.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/Factorial.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/Factorial.dll
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/refint/Factorial.dll
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/Factorial.pdb
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/Factorial.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/Factorial/obj/Debug/net7.0/ref/Factorial.dll

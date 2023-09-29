@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/bin/Debug/net7.0/PalindromeDataStream
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/bin/Debug/net7.0/PalindromeDataStream.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/bin/Debug/net7.0/PalindromeDataStream.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/bin/Debug/net7.0/PalindromeDataStream.dll
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/bin/Debug/net7.0/PalindromeDataStream.pdb
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/PalindromeDataStream.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/PalindromeDataStream.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/PalindromeDataStream.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/PalindromeDataStream.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/PalindromeDataStream.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/PalindromeDataStream.dll
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/refint/PalindromeDataStream.dll
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/PalindromeDataStream.pdb
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/PalindromeDataStream.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/PalindromeDataStream/obj/Debug/net7.0/ref/PalindromeDataStream.dll

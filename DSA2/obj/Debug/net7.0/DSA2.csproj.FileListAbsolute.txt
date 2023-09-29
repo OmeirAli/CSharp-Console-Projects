@@ -1,0 +1,5 @@
+/Users/omeirali/Desktop/Projects For Recordings/DSA2/obj/Debug/net7.0/DSA2.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/DSA2/obj/Debug/net7.0/DSA2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/DSA2/obj/Debug/net7.0/DSA2.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/DSA2/obj/Debug/net7.0/DSA2.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/DSA2/obj/Debug/net7.0/DSA2.csproj.CoreCompileInputs.cache

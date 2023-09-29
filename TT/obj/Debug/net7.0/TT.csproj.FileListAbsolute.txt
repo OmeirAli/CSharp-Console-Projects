@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/TT/bin/Debug/net7.0/TT
+/Users/omeirali/Desktop/Projects For Recordings/TT/bin/Debug/net7.0/TT.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/TT/bin/Debug/net7.0/TT.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/TT/bin/Debug/net7.0/TT.dll
+/Users/omeirali/Desktop/Projects For Recordings/TT/bin/Debug/net7.0/TT.pdb
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/TT.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/TT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/TT.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/TT.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/TT.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/TT.dll
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/refint/TT.dll
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/TT.pdb
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/TT.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/TT/obj/Debug/net7.0/ref/TT.dll

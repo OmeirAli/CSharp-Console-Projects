@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/bin/Debug/net7.0/VowelOrConstant
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/bin/Debug/net7.0/VowelOrConstant.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/bin/Debug/net7.0/VowelOrConstant.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/bin/Debug/net7.0/VowelOrConstant.dll
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/bin/Debug/net7.0/VowelOrConstant.pdb
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/VowelOrConstant.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/VowelOrConstant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/VowelOrConstant.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/VowelOrConstant.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/VowelOrConstant.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/VowelOrConstant.dll
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/refint/VowelOrConstant.dll
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/VowelOrConstant.pdb
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/VowelOrConstant.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/VowelOrConstant/obj/Debug/net7.0/ref/VowelOrConstant.dll

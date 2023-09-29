@@ -1,0 +1,15 @@
+/Users/omeirali/Desktop/Projects For Recordings/HCF/bin/Debug/net7.0/HCF
+/Users/omeirali/Desktop/Projects For Recordings/HCF/bin/Debug/net7.0/HCF.deps.json
+/Users/omeirali/Desktop/Projects For Recordings/HCF/bin/Debug/net7.0/HCF.runtimeconfig.json
+/Users/omeirali/Desktop/Projects For Recordings/HCF/bin/Debug/net7.0/HCF.dll
+/Users/omeirali/Desktop/Projects For Recordings/HCF/bin/Debug/net7.0/HCF.pdb
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/HCF.csproj.AssemblyReference.cache
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/HCF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/HCF.AssemblyInfoInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/HCF.AssemblyInfo.cs
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/HCF.csproj.CoreCompileInputs.cache
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/HCF.dll
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/refint/HCF.dll
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/HCF.pdb
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/HCF.genruntimeconfig.cache
+/Users/omeirali/Desktop/Projects For Recordings/HCF/obj/Debug/net7.0/ref/HCF.dll
